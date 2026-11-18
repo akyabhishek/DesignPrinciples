@@ -2,6 +2,9 @@
 
 A collection of fundamental software design principles with practical Java implementations.
 
+
+> **Repository notice:** This is no longer the active home for these notes. See the consolidated [System Design Notes](https://github.com/akyabhishek/system-design-notes) repository.
+
 ## 📋 Principles Covered
 
 ### SOLID Principles
